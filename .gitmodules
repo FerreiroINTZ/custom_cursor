@@ -1,0 +1,6 @@
+[submodule "react_version"]
+	path = react_version
+	url = ./react_version
+[submodule "vanillaJs_version"]
+	path = vanillaJs_version
+	url = ./vanillaJs_version
