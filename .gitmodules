@@ -1,6 +1,6 @@
 [submodule "react_version"]
 	path = react_version
-	url = ./react_version
+	url = ./custom_cursor_React
 [submodule "vanillaJs_version"]
 	path = vanillaJs_version
-	url = ./vanillaJs_version
+	url = ./custom_cursor_VanillaJs
