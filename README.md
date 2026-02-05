@@ -13,4 +13,4 @@ Este repositorio pode estar desatualizado!
 Para de fato acessa a ultima versao acesse os Repositorios dos submodulos diretamente.
 
 [React](https://github.com/ferreirointz/custom_cursor_React) |
-[Vanilla Js](https://github.com/ferreirointz/custom_cursoor_VanillaJs)
+[Vanilla Js](https://github.com/ferreirointz/custom_cursor_VanillaJs)
