@@ -1,6 +1,6 @@
 [submodule "react_version"]
 	path = react_version
-	url = ./custom_cursor_React
+	url = git@github.com:ferreirointz/custom_cursor_React
 [submodule "vanillaJs_version"]
 	path = vanillaJs_version
-	url = ./custom_cursor_VanillaJs
+	url = git@github.com:ferreirointz/custom_cursor_VanillaJs
